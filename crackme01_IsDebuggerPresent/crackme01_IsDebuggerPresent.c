@@ -1,9 +1,9 @@
 /*****************************************************************
-* File: 		crackme01_IsDebuggerPresent.c
+* File: 	crackme01_IsDebuggerPresent.c
 * Description: 	Es un crackme con la proteccion IsDebuggerPresent
-* Author: 		reverc0de
-* Date: 		26/03/2015
-* Github:		https://github.com/reverc0de/saw-anti-debugging	
+* Author: 	reverc0de
+* Date: 	26/03/2015
+* Github:	https://github.com/reverc0de/saw-anti-debugging	
 *****************************************************************/
 
 #include <windows.h>
