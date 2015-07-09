@@ -1,12 +1,12 @@
 /*****************************************************************
-* File:			crackme03_GetTickCount.c
+* File:		crackme03_GetTickCount.c
 * Description:	Es un crackme que implementa la protección 
-* 				anti-debugging basada en la función GetTickCount()
-* Date: 		06/07/2015
-* Author: 		reverc0de
-* Twitter:		@reverc0de
-* Site:			www.reverc0de.com
-* Github:		https://github.com/reverc0de/saw-anti-debugging	
+* 		anti-debugging basada en la función GetTickCount()
+* Date: 	06/07/2015
+* Author: 	reverc0de
+* Twitter:	@reverc0de
+* Site:		www.reverc0de.com
+* Github:	https://github.com/reverc0de/saw-anti-debugging	
 *****************************************************************/
 
 #include <windows.h>
